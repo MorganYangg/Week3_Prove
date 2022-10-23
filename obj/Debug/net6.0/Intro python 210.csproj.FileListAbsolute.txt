@@ -1,0 +1,15 @@
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\Intro python 210.csproj.AssemblyReference.cache
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\Intro python 210.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\Intro python 210.AssemblyInfoInputs.cache
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\Intro python 210.AssemblyInfo.cs
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\Intro python 210.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\bin\Debug\net6.0\Intro python 210.exe
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\bin\Debug\net6.0\Intro python 210.deps.json
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\bin\Debug\net6.0\Intro python 210.runtimeconfig.json
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\bin\Debug\net6.0\Intro python 210.dll
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\bin\Debug\net6.0\Intro python 210.pdb
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\Intro python 210.dll
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\refint\Intro python 210.dll
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\Intro python 210.pdb
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\Intro python 210.genruntimeconfig.cache
+C:\Users\Morgan\Desktop\CSE210\Intro python 210\obj\Debug\net6.0\ref\Intro python 210.dll
