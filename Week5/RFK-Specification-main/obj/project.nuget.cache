@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZhEdz+yDfG/tvwgIXSJCz1rXft4gaYXWiN/Ds8nRaEN6AFRZITFufAJD4NUP5bNdvj6E9uBLdLP1gV+Ei6z1w==",
+  "success": true,
+  "projectFilePath": "/Users/kaidizhang/Desktop/CSE 210/RFK TeamWork/RFK-Specification/Unit05.csproj",
+  "expectedPackageFiles": [
+    "/Users/kaidizhang/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/kaidizhang/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

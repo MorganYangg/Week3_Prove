@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Morgan\\Desktop\\CSE210\\Intro python 210\\Week4_Prove\\rfk-complete.csproj": {}
+    "/Users/kaidizhang/Desktop/CSE 210/RFK TeamWork/RFK-Specification/Unit05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Morgan\\Desktop\\CSE210\\Intro python 210\\Week4_Prove\\rfk-complete.csproj": {
+    "/Users/kaidizhang/Desktop/CSE 210/RFK TeamWork/RFK-Specification/Unit05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Morgan\\Desktop\\CSE210\\Intro python 210\\Week4_Prove\\rfk-complete.csproj",
-        "projectName": "rfk-complete",
-        "projectPath": "C:\\Users\\Morgan\\Desktop\\CSE210\\Intro python 210\\Week4_Prove\\rfk-complete.csproj",
-        "packagesPath": "C:\\Users\\Morgan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Morgan\\Desktop\\CSE210\\Intro python 210\\Week4_Prove\\obj\\",
+        "projectUniqueName": "/Users/kaidizhang/Desktop/CSE 210/RFK TeamWork/RFK-Specification/Unit05.csproj",
+        "projectName": "Unit05",
+        "projectPath": "/Users/kaidizhang/Desktop/CSE 210/RFK TeamWork/RFK-Specification/Unit05.csproj",
+        "packagesPath": "/Users/kaidizhang/.nuget/packages/",
+        "outputPath": "/Users/kaidizhang/Desktop/CSE 210/RFK TeamWork/RFK-Specification/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Morgan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kaidizhang/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -38,9 +38,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Raylib-cs": {
+            "raylib-cs": {
               "target": "Package",
-              "version": "[4.0.0.1, )"
+              "version": "[3.7.0.1, )"
             }
           },
           "imports": [
@@ -49,8 +49,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }
